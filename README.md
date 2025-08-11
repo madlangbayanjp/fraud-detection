@@ -1,6 +1,17 @@
-# Fraud Detection with Random Forest
+# Fraud Detection
 
-A machine learning-powered fraud detection system built with Random Forest algorithm and deployed using Streamlit.
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Scikit-learn - Machine Learning](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?logo=scikit-learn)
+
+I optimized a machine learning project that I've found on youtube
+https://www.youtube.com/watch?v=4Od5_z28iIE
+
+In this project, he created a Fraud Detection using Logistic Regression with 96% accuracy **BUT** 2% precision
+This means that it will be classified as a fraud even though it is not
+
+What I did is that I optimized this fraud detection project. I experimented and used different algorithms to make the metrics as accurate as possible
+
+Using different algorithms, I found out that the best one to use for this project is Random Forest since  it can handle **large** imbalances in data
 
 ## 🚀 Features
 
@@ -11,11 +22,11 @@ A machine learning-powered fraud detection system built with Random Forest algor
 
 ## 🛠️ Technologies Used
 
-- **Python 3.12**
-- **Scikit-learn 1.6.1** (Random Forest)
-- **Streamlit** (Web Interface)
-- **Pandas** (Data Processing)
-- **Joblib** (Model Serialization)
+- **Python**
+- **Scikit-learn** 
+- **Streamlit** 
+- **Pandas**
+- **Joblib**
 
 ## 📦 Installation
 
