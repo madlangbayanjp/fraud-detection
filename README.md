@@ -1,7 +1,7 @@
 # Fraud Detection
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?logo=scikit-learn)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?logo=scikit-learn)
 
 I optimized a machine learning project that I've found on youtube
 https://www.youtube.com/watch?v=4Od5_z28iIE
