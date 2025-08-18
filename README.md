@@ -28,25 +28,6 @@ Using different algorithms, I found out that the best one to use for this projec
 - **Pandas**
 - **Joblib**
 
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/fraud-detection-random-forest.git
-cd fraud-detection-random-forest
-```
-
-2. Create a virtual environment:
-```bash
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ## 📊 Dataset
 
 The dataset used for training the model is not included in this repository due to its large size. You can download the dataset from the following link:
@@ -69,7 +50,7 @@ streamlit run fraud_detection.py
 ## 📊 Model Information
 
 - **Algorithm**: Random Forest Classifier
-- **Training Data**: Financial transaction dataset with engineered features
+- **Training Data**: Fraud Detection dataset with engineered features
 - **Features Used**:
   - Transaction type, amount, account balances
   - Engineered ratios and flags
@@ -78,7 +59,3 @@ streamlit run fraud_detection.py
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests for improvements!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
