@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 The dataset used for training the model is not included in this repository due to its large size. You can download the dataset from the following link:
 
-- [Financial Transaction Dataset](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download)
+- <a href="https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download" target="_blank">Fraud Detection Dataset</a>
 
 After downloading the dataset, place it in the project directory and update the file path in the code accordingly.
 
