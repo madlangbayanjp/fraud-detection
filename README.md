@@ -13,14 +13,14 @@ What I did is that I optimized this fraud detection project. I experimented and 
 
 Using different algorithms, I found out that the best one to use for this project is Random Forest since  it can handle **large** imbalances in data
 
-## 🚀 Features
+## Features
 
 - **Real-time Fraud Detection**: Predict fraudulent transactions instantly
 - **Interactive Web Interface**: Easy-to-use Streamlit dashboard
 - **Multiple Transaction Types**: Supports PAYMENT, TRANSFER, CASH_OUT, DEBIT, CASH_IN
 - **Advanced Feature Engineering**: Uses engineered features for better accuracy
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **Scikit-learn** 
@@ -28,7 +28,7 @@ Using different algorithms, I found out that the best one to use for this projec
 - **Pandas**
 - **Joblib**
 
-## 📊 Dataset
+## Dataset
 
 The dataset used for training the model is not included in this repository due to its large size. You can download the dataset from the following link:
 
@@ -36,7 +36,7 @@ The dataset used for training the model is not included in this repository due t
 
 After downloading the dataset, place it in the project directory and update the file path in the code accordingly.
 
-## 🚀 Usage
+## Usage
 
 1. Run the Streamlit app:
 ```bash
@@ -47,7 +47,7 @@ streamlit run fraud_detection.py
 
 3. Enter transaction details and click "Predict" to get fraud detection results
 
-## 📊 Model Information
+## Model Information
 
 - **Algorithm**: Random Forest Classifier
 - **Training Data**: Fraud Detection dataset with engineered features
